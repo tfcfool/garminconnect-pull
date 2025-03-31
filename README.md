@@ -11,6 +11,7 @@ The goal of this repo (python file) is to:
 - Leverage the API Wrapper to connect to Garmin Connect
 - Extract HRV/RHR/Sleep/Sleep Quality Data over the last year into a CSV
 - Add the dates I was sick to the CSV
+- Generate plots of the data to attempt mostly for visualization (but perhaps insights could be gained too)
 
 Then my plan is to upload that to an LLM for analysis. It's already had some interesting - though probably unsurpising - results with my 90 days of data:
 
